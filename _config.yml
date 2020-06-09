@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: andreinasoto
 description:
-baseurl: "/just-the-docs" # the subpath of your site, e.g. /blog
+baseurl: "/andreinasoto" # the subpath of your site, e.g. /blog
 url: "https://andreinasoto.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
@@ -58,3 +58,4 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
+  theme: just-the-docs
